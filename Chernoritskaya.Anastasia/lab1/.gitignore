@@ -8,9 +8,9 @@ CMakeCache.txt
 CMakeFiles/
 
 # Файлы IDE
-*.vs/
-*.vscode/
-*.idea/
+.vs/
+.vscode/
+.idea/
 
 # Файлы, которые создаёт сам демон при запуске
 *.pid
